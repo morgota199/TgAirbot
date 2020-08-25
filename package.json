@@ -1,0 +1,17 @@
+{
+  "name": "tgairbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compare": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/request-promise": "^4.1.46",
+    "colors": "^1.4.0",
+    "reflect-metadata": "^0.1.13",
+    "request-promise": "^4.2.6"
+  }
+}
